@@ -1,23 +1,23 @@
 # Swag-lab-project
 
-Online-Shopping-Demo-Application
+# Online-Shopping-Demo-Application
 
 Java project for test automation covering functional test cases.
-Designed using TestNG Framework. A exel file of manual test cases is also developed.
+Designed using TestNG Framework. An Excel file of manual test cases is also developed.
 
-Concepts Included
+# Concepts Included
 -> Java oops concept
--> Data drivern using properties file
+-> Data driven using properties file
 
-Tools
+# Tools
 -> Maven
 -> TestNG
 -> Selenium webdriver
 
-Requirements
+# Requirements
 In order to run this project an eclipse IDE must be installed
 
-Usage
+# Usage
 This project is broken into different classes which are placed in different packages
 
 -> WebDriver are setup in one class called onlineShopping.Utilities>Webdrivers.java
